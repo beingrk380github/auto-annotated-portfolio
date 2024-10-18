@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: All Projects
+title:My All Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
