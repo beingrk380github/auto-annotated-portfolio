@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, rambabu kumar, consultant and a bunch of other impressive
-      titles and buzz words.
+      I’m a Data Scientist, and my Name is Rambabu  digital artist, consultant and a bunch of other
+      impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
