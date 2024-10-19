@@ -99,7 +99,7 @@
             "phoneAltText": "My phone number",
             "email": "THIS ismyemail.@myemail.me",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "319 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
