@@ -95,7 +95,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+91- RAMBABU",
+            "phoneNumber": "+91-8888800000",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
